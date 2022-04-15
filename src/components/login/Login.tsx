@@ -38,7 +38,7 @@ const Login = (props: Props) => {
 
                 // rest the form with errors
                 form.resetFields();
-                form.
+                //form.
             }
           });
     };
